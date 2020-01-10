@@ -1,0 +1,5 @@
+{
+  "app": "aomx.exe",
+  "payload": "force-app-network.dll",
+  "network": "25.29.232.1"
+}
