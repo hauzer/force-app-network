@@ -4,14 +4,7 @@
 
 #include <nlohmann/json.hpp>
 
-#include <minhook.h>
-
-// TODO: Figure out how to stop autolinking "libMinHook.lib".
-//#if defined _M_X64
-//#pragma comment(lib, "libMinHook-x64-v141-md.lib")
-//#elif defined _M_IX86
-//#pragma comment(lib, "libMinHook-x86-v141-md.lib")
-//#endif
+#include "../minhook/include/MinHook.h"
 
 #include "../common/error.hpp"
 #include "../common/winapi_error.hpp"
