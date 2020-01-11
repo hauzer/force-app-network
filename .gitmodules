@@ -1,4 +1,4 @@
 [submodule "minhook"]
 	path = minhook
-	url = https://github.com/hauzer/minhook/
+	url = https://github.com/hauzer/minhook/tree/VC16
 	branch = VC16
