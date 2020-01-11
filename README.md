@@ -10,3 +10,5 @@ You can download the latest [release](https://github.com/hauzer/force-app-networ
   * Set `network` to the host name of the network you want to force.
 * Start your app by executing `force-network-app.exe` from that directory.
 * Mind the bitness of your app; use the appropriate `.exe`.
+
+NOTE: Currently probably works with only a very limited number of apps, since only one specific WinAPI function is targeted. Built for and tested with Age of Mythology: Gold Edition (*not* Enhanced Edition) using Hamachi.
